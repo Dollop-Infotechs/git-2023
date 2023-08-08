@@ -4,4 +4,5 @@ class Employee{
     String address;
     String mobile;
     String course;
+    String pqr;
 }
