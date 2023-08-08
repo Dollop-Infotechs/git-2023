@@ -6,4 +6,6 @@ class Employee{
     String course;
     String pqr;
     String abc;
+    String abp;
+    String ccc;
 }
