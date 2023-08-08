@@ -1,5 +1,5 @@
 class Employee{
-    String name;
+    String sname;
     String email;
     String address;
 }
